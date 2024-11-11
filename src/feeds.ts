@@ -1,4 +1,5 @@
 export const feeds = [
+///// Video
   // Chris Young
   'https://www.youtube.com/feeds/videos.xml?channel_id=UCvVsD2hFZRgKNH7x5Q1wwug',
   // Cullen Kelly
@@ -27,6 +28,7 @@ export const feeds = [
   'https://www.youtube.com/feeds/videos.xml?channel_id=UCRqtAQ61-inw_8oMpEb4mug',
   // dannyrio
   'https://www.youtube.com/feeds/videos.xml?channel_id=UCpI1aSij9qlOe01Kh2Y2aWw',
-  // geohot blog
+
+///// blog
   'https://geohot.github.io/blog/feed.xml',
 ]
